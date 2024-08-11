@@ -16,7 +16,7 @@ fn main() {
      vector.pop();
      println!("vector = {:?}", vector);
 
-     // access to position vector
+     // access to element of vector
      println!("vector = {:?}", vector[0]);
 
      // usar el metodo len()
