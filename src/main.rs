@@ -16,4 +16,7 @@ fn main() {
      vector.pop();
      println!("vector = {:?}", vector);
 
+     // access to position vector
+     println!("vector = {:?}", vector[0]);
+
 }
