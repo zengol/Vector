@@ -19,4 +19,7 @@ fn main() {
      // access to position vector
      println!("vector = {:?}", vector[0]);
 
+     // usar el metodo len()
+     println!("La longitud del vector es: {:?}", vector.len());
+
 }
